@@ -1,0 +1,704 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Belém Tower",
+      "type": "monument",
+      "description": "A historic fortress located on the Tagus River, dating back to the 16th century.",
+      "address": "Avenida Brasília, 1400-038 Lisboa, Portugal"
+    },
+    {
+      "id": 2,
+      "name": "National Tile Museum",
+      "type": "museum",
+      "description": "Dedicated to the art of Portuguese tiles, showcasing historical and contemporary pieces.",
+      "address": "Rua da Madre de Deus, 4, 1900-312 Lisboa, Portugal"
+    },
+    {
+      "id": 3,
+      "name": "Bairro Alto",
+      "type": "hotspot",
+      "description": "Lively neighborhood known for its vibrant nightlife, with numerous bars and music venues.",
+      "address": "Bairro Alto, 1200-109 Lisboa, Portugal"
+    },
+    {
+      "id": 4,
+      "name": "Time Out Market",
+      "type": "restaurant",
+      "description": "A food hall featuring a variety of gourmet stalls offering Portuguese and international cuisine.",
+      "address": "Mercado da Ribeira, Av. 24 de Julho, 1200-479 Lisboa, Portugal"
+    },
+    {
+      "id": 5,
+      "name": "Lisbon Oceanarium",
+      "type": "other",
+      "description": "One of the largest indoor aquariums in Europe, showcasing marine life from various ecosystems.",
+      "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, Portugal"
+    },
+    {
+      "id": 6,
+      "name": "Jerónimos Monastery",
+      "type": "monument",
+      "description": "A UNESCO World Heritage site, renowned for its Manueline architecture and historical significance.",
+      "address": "Praça do Império, 1400-206 Lisboa, Portugal"
+    },
+    {
+      "id": 7,
+      "name": "Lisbon Zoo",
+      "type": "outdoor activity",
+      "description": "A popular zoo featuring a wide range of animals, including exotic species and interactive exhibits.",
+      "address": "Estrada de Benfica 158-160, 1549-004 Lisboa, Portugal"
+    },
+    {
+      "id": 8,
+      "name": "Parque das Nações",
+      "type": "outdoor activity",
+      "description": "A modern district built for the 1998 World Expo, featuring parks, gardens, and cultural attractions.",
+      "address": "1990-247 Lisboa, Portugal"
+    },
+    {
+      "id": 9,
+      "name": "Lisbon Under Stars",
+      "type": "outdoor activity",
+      "description": "An immersive multimedia show held at the ruins of the Carmo Convent, showcasing Lisbon's history.",
+      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal"
+    },
+    {
+      "id": 10,
+      "name": "Cristo Rei",
+      "type": "monument",
+      "description": "A statue of Jesus Christ overlooking the city, offering panoramic views of Lisbon and the Tagus River.",
+      "address": "Almada, Portugal"
+    },
+    {
+      "id": 11,
+      "name": "Calouste Gulbenkian Museum",
+      "type": "museum",
+      "description": "Houses an extensive collection of art spanning from ancient to contemporary periods.",
+      "address": "Av. de Berna 45A, 1067-001 Lisboa, Portugal"
+    },
+    {
+      "id": 12,
+      "name": "São Jorge Castle",
+      "type": "monument",
+      "description": "A historic Moorish castle offering panoramic views of Lisbon and the Tagus River.",
+      "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal"
+    },
+    {
+      "id": 13,
+      "name": "Lisbon Cathedral",
+      "type": "monument",
+      "description": "The oldest church in the city, showcasing a blend of Romanesque and Gothic architecture.",
+      "address": "Largo da Sé, 1100-585 Lisboa, Portugal"
+    },
+    {
+      "id": 14,
+      "name": "Miradouro da Senhora do Monte",
+      "type": "outdoor activity",
+      "description": "A viewpoint offering stunning panoramic views of Lisbon's skyline.",
+      "address": "Largo do Monte, 1170-253 Lisboa, Portugal"
+    },
+    {
+      "id": 15,
+      "name": "MAAT - Museum of Art, Architecture and Technology",
+      "type": "museum",
+      "description": "Dedicated to contemporary art, architecture, and technology, housed in a modern building.",
+      "address": "Av. Brasília, 1300-598 Lisboa, Portugal"
+    },
+    {
+      "id": 16,
+      "name": "Lisbon Tram 28",
+      "type": "other",
+      "description": "An iconic tram route traversing Lisbon's historic neighborhoods, offering scenic views.",
+      "address": "Lisbon, Portugal"
+    },
+    {
+      "id": 17,
+      "name": "Rossio Square",
+      "type": "hotspot",
+      "description": "A bustling square in the heart of Lisbon, surrounded by historic buildings and cafes.",
+      "address": "Praça de D. Pedro IV, 1100-201 Lisboa, Portugal"
+    },
+    {
+      "id": 18,
+      "name": "Lisbon Story Center",
+      "type": "museum",
+      "description": "An interactive museum chronicling the history of Lisbon, from ancient times to the present.",
+      "address": "Terreiro do Paço, 78-81, 1100-148 Lisboa, Portugal"
+    },
+    {
+      "id": 19,
+      "name": "Pena Palace",
+      "type": "monument",
+      "description": "A colorful Romanticist palace perched on a hilltop, offering panoramic views of Sintra and the coast.",
+      "address": "Estrada da Pena, 2710-609 Sintra, Portugal"
+    },
+    {
+      "id": 20,
+      "name": "Lisbon Botanical Garden",
+      "type": "outdoor activity",
+      "description": "A serene botanical garden featuring a diverse collection of plant species from around the world.",
+      "address": "Calçada da Ajuda, 1300-011 Lisboa, Portugal"
+    },
+    {
+      "id": 21,
+      "name": "Feira da Ladra",
+      "type": "other",
+      "description": "A famous flea market offering a wide range of goods, from antiques to clothing and handicrafts.",
+      "address": "Campo de Santa Clara, 1100-471 Lisboa, Portugal"
+    },
+    {
+      "id": 22,
+      "name": "LX Factory",
+      "type": "hotspot",
+      "description": "A trendy industrial complex housing shops, cafes, restaurants, and cultural spaces.",
+      "address": "Rua Rodrigues de Faria 103, 1300-501 Lisboa, Portugal"
+    },
+    {
+      "id": 23,
+      "name": "Carmo Archaeological Museum",
+      "type": "museum",
+      "description": "Housed in the ruins of the Carmo Convent, featuring archaeological artifacts and exhibitions.",
+      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal"
+    },
+    {
+      "id": 24,
+      "name": "Santa Justa Lift",
+      "type": "monument",
+      "description": "An iconic wrought-iron elevator offering panoramic views of Lisbon's downtown.",
+      "address": "Rua do Ouro, 1150-060 Lisboa, Portugal"
+    },
+    {
+      "id": 25,
+      "name": "Lisbon Zoo",
+      "type": "outdoor activity",
+      "description": "A popular zoo featuring a wide range of animals, including exotic species and interactive exhibits.",
+      "address": "Estrada de Benfica 158-160, 1549-004 Lisboa, Portugal"
+    },
+    {
+      "id": 26,
+      "name": "Elevador da Bica",
+      "type": "monument",
+      "description": "A historic funicular railway connecting the Bairro Alto to the riverside neighborhood of Cais do Sodré.",
+      "address": "Rua da Bica de Duarte Belo, 1200-109 Lisboa, Portugal"
+    },
+    {
+      "id": 27,
+      "name": "Parque Eduardo VII",
+      "type": "outdoor activity",
+      "description": "A large public park offering panoramic views of Lisbon and featuring landscaped gardens.",
+      "address": "Av. Sidónio Pais, 1070-051 Lisboa, Portugal"
+    },
+    {
+      "id": 28,
+      "name": "Ajuda National Palace",
+      "type": "monument",
+      "description": "A neoclassical palace with opulent interiors and extensive gardens, once the royal residence.",
+      "address": "Largo da Ajuda, 1349-021 Lisboa, Portugal"
+    },
+    {
+      "id": 29,
+      "name": "Berardo Collection Museum",
+      "type": "museum",
+      "description": "Houses a vast collection of modern and contemporary art, including works by Picasso and Warhol.",
+      "address": "Praça do Império, 1449-003 Lisboa, Portugal"
+    },
+    {
+      "id": 30,
+      "name": "Lisbon Oceanarium",
+      "type": "other",
+      "description": "One of the largest indoor aquariums in Europe, showcasing marine life from various ecosystems.",
+      "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, Portugal"
+    },
+    {
+      "id": 31,
+      "name": "Largo do Carmo",
+      "type": "hotspot",
+      "description": "A historic square featuring the ruins of the Carmo Convent and offering scenic views of Lisbon.",
+      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal"
+    },
+    {
+      "id": 32,
+      "name": "Praça do Comércio",
+      "type": "hotspot",
+      "description": "A grand square facing the Tagus River, surrounded by historic buildings and arcades.",
+      "address": "Praça do Comércio, 1100-148 Lisboa, Portugal"
+    },
+    {
+      "id": 33,
+      "name": "Lisbon Under Stars",
+      "type": "outdoor activity",
+      "description": "An immersive multimedia show held at the ruins of the Carmo Convent, showcasing Lisbon's history.",
+      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal"
+    },
+    {
+      "id": 34,
+      "name": "Lisbon Science Museum",
+      "type": "museum",
+      "description": "Interactive exhibits exploring science, technology, and innovation, suitable for all ages.",
+      "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal"
+    },
+    {
+      "id": 35,
+      "name": "São Carlos National Theatre",
+      "type": "other",
+      "description": "A historic theater hosting opera, ballet, and classical music performances.",
+      "address": "Largo de São Carlos, 1200-410 Lisboa, Portugal"
+    },
+    {
+      "id": 36,
+      "name": "Lisbon Greenhouse",
+      "type": "outdoor activity",
+      "description": "A charming greenhouse housing exotic plants and offering a tranquil escape from the city.",
+      "address": "Rua da Palmeira, 1300-219 Lisboa, Portugal"
+    },
+    {
+      "id": 37,
+      "name": "Monastery of São Vicente de Fora",
+      "type": "monument",
+      "description": "A 17th-century monastery known for its ornate interior and panoramic views from the rooftop terrace.",
+      "address": "Largo de São Vicente, 1100-572 Lisboa, Portugal"
+    },
+    {
+      "id": 38,
+      "name": "Museum of Lisbon",
+      "type": "museum",
+      "description": "Chronicles the history and culture of Lisbon through exhibits, artifacts, and multimedia displays.",
+      "address": "Campo Grande 245, 1700-091 Lisboa, Portugal"
+    },
+    {
+      "id": 39,
+      "name": "Pavilhão do Conhecimento",
+      "type": "museum",
+      "description": "A science museum with hands-on exhibits and interactive activities, suitable for all ages.",
+      "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal"
+    },
+    {
+      "id": 40,
+      "name": "Lisbon Jerónimos Monastery",
+      "type": "monument",
+      "description": "A UNESCO World Heritage site, renowned for its Manueline architecture and historical significance.",
+      "address": "Praça do Império, 1400-206 Lisboa, Portugal"
+    },
+    {
+      "id": 41,
+      "name": "Amoreiras 360 Panoramic View",
+      "type": "monument",
+      "description": "An observation deck offering panoramic views of Lisbon from the top of the Amoreiras Shopping Center.",
+      "address": "Rua Professor António Carvalho de Figueiredo, 1070-000 Lisboa, Portugal"
+    },
+    {
+      "id": 42,
+      "name": "Lisbon Municipal Square",
+      "type": "hotspot",
+      "description": "A historic square featuring the Lisbon City Hall and surrounded by cafes and shops.",
+      "address": "Praça do Município, 1100-011 Lisboa, Portugal"
+    },
+    {
+      "id": 43,
+      "name": "Lisbon Botanical Garden",
+      "type": "outdoor activity",
+      "description": "A serene botanical garden featuring a diverse collection of plant species from around the world.",
+      "address": "Calçada da Ajuda, 1300-011 Lisboa, Portugal"
+    },
+    {
+      "id": 44,
+      "name": "Lisbon Planetarium",
+      "type": "other",
+      "description": "Offers educational astronomy shows and exhibits, suitable for visitors of all ages.",
+      "address": "Praça do Império, 1400-206 Lisboa, Portugal"
+    },
+    {
+      "id": 45,
+      "name": "Lisbon Coach Museum",
+      "type": "museum",
+      "description": "Houses a unique collection of historic coaches and carriages, showcasing centuries of transportation.",
+      "address": "Av. da Índia, 136, 1300-004 Lisboa, Portugal"
+    },
+    {
+      "id": 46,
+      "name": "Lisbon Cable Car",
+      "type": "other",
+      "description": "A scenic cable car ride offering panoramic views of the city, from Parque das Nações to the waterfront.",
+      "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal"
+    },
+    {
+      "id": 47,
+      "name": "Lisbon Design Museum",
+      "type": "museum",
+      "description": "Showcases Portuguese and international design, including furniture, fashion, and graphic design.",
+      "address": "Rua Augusta, 24, 1100-053 Lisboa, Portugal"
+    },
+    {
+      "id": 48,
+      "name": "Museum of Aljube - Resistance and Freedom",
+      "type": "museum",
+      "description": "Chronicles the history of resistance against dictatorship in Portugal, featuring exhibitions and archives.",
+      "address": "Rua de Augusto Rosa, 42, 1100-059 Lisboa, Portugal"
+    },
+    {
+      "id": 49,
+      "name": "Estrela Basilica",
+      "type": "monument",
+      "description": "A neoclassical basilica featuring a large dome and ornate interior, located in the Estrela district.",
+      "address": "Praça da Estrela, 1200-667 Lisboa, Portugal"
+    },
+    {
+      "id": 50,
+      "name": "Lisbon City Museum",
+      "type": "museum",
+      "description": "Dedicated to the history and culture of Lisbon, with exhibits on archaeology, art, and ethnography.",
+      "address": "Campo Grande 245, 1700-091 Lisboa, Portugal"
+    },
+    {
+      "id": 51,
+      "name": "Lisbon Waterfront",
+      "type": "hotspot",
+      "description": "A picturesque area along the Tagus River, with promenades, cafes, and scenic views of the water.",
+      "address": "Avenida Dom Carlos I, 1200-109 Lisboa, Portugal"
+    },
+    {
+      "id": 52,
+      "name": "Santa Catarina Viewpoint",
+      "type": "hotspot",
+      "description": "A popular viewpoint offering panoramic views of the city and the Tagus River, especially at sunset.",
+      "address": "Calçada do Combro 58, 1200-114 Lisboa, Portugal"
+    },
+    {
+      "id": 53,
+      "name": "Lisbon Riverside Walk",
+      "type": "hotspot",
+      "description": "A scenic walkway along the banks of the Tagus River, perfect for leisurely strolls and relaxation.",
+      "address": "Passeio Marítimo de Alcântara, 1350-352 Lisboa, Portugal"
+    },
+    {
+      "id": 54,
+      "name": "Rua Augusta Arch",
+      "type": "hotspot",
+      "description": "A triumphal arch at the entrance to the Rua Augusta pedestrian street, offering views of downtown Lisbon.",
+      "address": "Rua Augusta, 2, 1100-053 Lisboa, Portugal"
+    },
+    {
+      "id": 55,
+      "name": "Municipal Square",
+      "type": "hotspot",
+      "description": "A historic square in the heart of Lisbon, surrounded by elegant buildings and bustling cafes.",
+      "address": "Praça do Município, 1100-011 Lisboa, Portugal"
+    },
+    {
+      "id": 56,
+      "name": "Park Bar",
+      "type": "bar",
+      "description": "A rooftop bar offering panoramic views of Lisbon, known for its trendy atmosphere and cocktails.",
+      "address": "Calçada do Combro 58, 1200-114 Lisboa, Portugal"
+    },
+    {
+      "id": 57,
+      "name": "Pensão Amor",
+      "type": "bar",
+      "description": "A former brothel turned into a vibrant bar with quirky decor, live music, and creative cocktails.",
+      "address": "Rua do Alecrim 19, 1200-292 Lisboa, Portugal"
+    },
+    {
+      "id": 58,
+      "name": "Foxtrot Bar",
+      "type": "bar",
+      "description": "A cozy speakeasy-style bar with a retro ambiance, serving craft cocktails and live jazz music.",
+      "address": "Rua São João da Praça 45, 1100-520 Lisboa, Portugal"
+    },
+    {
+      "id": 59,
+      "name": "The Old Pharmacy",
+      "type": "bar",
+      "description": "A themed bar designed to resemble an old pharmacy, offering a unique setting and creative cocktails.",
+      "address": "R. do Diário de Notícias 73, 1200-147 Lisboa, Portugal"
+    },
+    {
+      "id": 60,
+      "name": "Pavilhão Chinês",
+      "type": "bar",
+      "description": "An eclectic bar housed in a former Chinese grocery store, featuring vintage decor and a vast collection of curiosities.",
+      "address": "R. Dom Pedro V 89, 1250-093 Lisboa, Portugal"
+    },
+    {
+      "id": 61,
+      "name": "Red Frog Speakeasy Bar",
+      "type": "bar",
+      "description": "A hidden speakeasy bar with a Prohibition-era theme, offering craft cocktails and live jazz.",
+      "address": "Rua do Salitre 5A, 1250-201 Lisboa, Portugal"
+    },
+    {
+      "id": 62,
+      "name": "Bairro Alto Hotel Rooftop Bar",
+      "type": "bar",
+      "description": "A stylish rooftop bar offering panoramic views of Lisbon's historic district and the Tagus River.",
+      "address": "Praça Luís de Camões 2, 1200-243 Lisboa, Portugal"
+    },
+    {
+      "id": 63,
+      "name": "Topo Chiado",
+      "type": "bar",
+      "description": "A rooftop bar with stunning views of Lisbon's skyline and the São Jorge Castle, serving cocktails and tapas.",
+      "address": "Praça Martim Moniz, 2, 1100-341 Lisboa, Portugal"
+    },
+    {
+      "id": 64,
+      "name": "The Decadente",
+      "type": "bar",
+      "description": "A trendy bar located in a historic building, known for its laid-back ambiance, craft cocktails, and live music.",
+      "address": "Rua de São Pedro de Alcântara 81, 1250-238 Lisboa, Portugal"
+    },
+    {
+      "id": 65,
+      "name": "Lost In Esplanada Bar",
+      "type": "bar",
+      "description": "A bohemian-style bar with a relaxed atmosphere, offering outdoor seating and views of the city.",
+      "address": "R. Dom Pedro V 56, 1250-094 Lisboa, Portugal"
+    },
+    {
+      "id": 66,
+      "name": "Lux Frágil",
+      "type": "club",
+      "description": "A renowned nightclub with multiple floors, featuring electronic music, live performances, and a riverside terrace.",
+      "address": "Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa, Portugal"
+    },
+    {
+      "id": 67,
+      "name": "Kremlin",
+      "type": "club",
+      "description": "An energetic nightclub with multiple dance floors, playing a mix of electronic, hip-hop, and pop music.",
+      "address": "Av. 24 de Julho 68, 1200-868 Lisboa, Portugal"
+    },
+    {
+      "id": 68,
+      "name": "Urban Beach",
+      "type": "club",
+      "description": "A popular nightclub located by the river, known for its vibrant atmosphere, DJ sets, and themed parties.",
+      "address": "Cais da Viscondessa, 1200-109 Lisboa, Portugal"
+    },
+    {
+      "id": 69,
+      "name": "Main - Discoteca",
+      "type": "club",
+      "description": "A spacious nightclub with multiple bars and dance floors, playing a mix of house, techno, and commercial hits.",
+      "address": "Cais Sodré, Armazém A, Rua Nova do Carvalho, 1200-161 Lisboa, Portugal"
+    },
+    {
+      "id": 70,
+      "name": "Tokyo Lisboa",
+      "type": "club",
+      "description": "An iconic nightclub with a futuristic design, known for its electronic music, laser shows, and themed parties.",
+      "address": "R. da Cintura do Porto de Lisboa, Armazém H (Cais da Ribeira), 1200-450 Lisboa, Portugal"
+    },
+    {
+      "id": 71,
+      "name": "Lust in Rio",
+      "type": "club",
+      "description": "A glamorous riverside nightclub with VIP areas, offering a mix of electronic and commercial music.",
+      "address": "Cais da Ribeira Nova Armazém B 1200-450 Lisboa, Portugal"
+    },
+    {
+      "id": 72,
+      "name": "MusicBox",
+      "type": "club",
+      "description": "An intimate nightclub known for its eclectic music selection, featuring live bands, DJs, and themed nights.",
+      "address": "R. Nova do Carvalho 24, 1200-014 Lisboa, Portugal"
+    },
+    {
+      "id": 73,
+      "name": "Plateau",
+      "type": "club",
+      "description": "A stylish nightclub with a focus on electronic music, featuring international DJs and themed events.",
+      "address": "Largo da Academia Nacional de Belas Artes 1, 1200-005 Lisboa, Portugal"
+    },
+    {
+      "id": 74,
+      "name": "Barrio Latino",
+      "type": "club",
+      "description": "A Latin-themed nightclub with multiple dance floors, offering salsa, bachata, and Latin music.",
+      "address": "R. da Cintura do Porto de Lisboa, Armazém A, 1200-450 Lisboa, Portugal"
+    },
+    {
+      "id": 75,
+      "name": "Indústria Club",
+      "type": "club",
+      "description": "A warehouse-style nightclub with industrial decor, playing a mix of techno, house, and underground electronic music.",
+      "address": "Rua da Cintura do Porto de Lisboa, Armazém 2, Cais da Ribeira, 1200-450 Lisboa, Portugal"
+    },
+    {
+      "id": 76,
+      "name": "Cycling along the Tagus River",
+      "type": "outdoor activity",
+      "description": "Rent a bike and explore the scenic bike paths along the Tagus River, passing by landmarks and enjoying waterfront views.",
+      "address": "Tagus River waterfront, Lisbon, Portugal"
+    },
+    {
+      "id": 77,
+      "name": "Hiking in Monsanto Forest Park",
+      "type": "outdoor activity",
+      "description": "Embark on hiking trails in Monsanto Forest Park, offering lush greenery, viewpoints, and a variety of terrain to explore.",
+      "address": "Monsanto Forest Park, Lisbon, Portugal"
+    },
+    {
+      "id": 78,
+      "name": "Rock Climbing in Cascais",
+      "type": "outdoor activity",
+      "description": "Head to the cliffs of Cascais for rock climbing adventures, suitable for climbers of all levels, with stunning coastal views.",
+      "address": "Cascais, Lisbon, Portugal"
+    },
+    {
+      "id": 79,
+      "name": "Surfing at Carcavelos Beach",
+      "type": "outdoor activity",
+      "description": "Hit the waves at Carcavelos Beach, one of the most popular surfing spots near Lisbon, known for its consistent waves.",
+      "address": "Praia de Carcavelos, Cascais, Portugal"
+    },
+    {
+      "id": 80,
+      "name": "Stand-up Paddleboarding on the Tagus River",
+      "type": "outdoor activity",
+      "description": "Experience stand-up paddleboarding on the calm waters of the Tagus River, with opportunities to admire Lisbon's landmarks.",
+      "address": "Tagus River, Lisbon, Portugal"
+    },
+    {
+      "id": 81,
+      "name": "Yoga in the Park",
+      "type": "outdoor activity",
+      "description": "Join outdoor yoga sessions held in parks across Lisbon, offering a peaceful environment for relaxation and fitness.",
+      "address": "Various parks in Lisbon, Portugal"
+    },
+    {
+      "id": 82,
+      "name": "Running along the Lisbon Waterfront",
+      "type": "outdoor activity",
+      "description": "Go for a run along the Lisbon Waterfront, enjoying scenic views of the Tagus River and passing by iconic landmarks.",
+      "address": "Tagus River waterfront, Lisbon, Portugal"
+    },
+    {
+      "id": 83,
+      "name": "Kayaking in Arrábida Natural Park",
+      "type": "outdoor activity",
+      "description": "Explore the stunning coastline of Arrábida Natural Park by kayak, with crystal-clear waters and hidden caves to discover.",
+      "address": "Arrábida Natural Park, Setúbal, Portugal"
+    },
+    {
+      "id": 84,
+      "name": "Canyoning in Sintra-Cascais Natural Park",
+      "type": "outdoor activity",
+      "description": "Embark on a canyoning adventure in Sintra-Cascais Natural Park, rappelling down waterfalls and exploring rugged canyons.",
+      "address": "Sintra-Cascais Natural Park, Sintra, Portugal"
+    },
+    {
+      "id": 85,
+      "name": "Mountain Biking in Sintra Mountains",
+      "type": "outdoor activity",
+      "description": "Mountain bike through the trails of Sintra Mountains, offering challenging routes and stunning views of the countryside.",
+      "address": "Sintra Mountains, Sintra, Portugal"
+    },
+    {
+      "id": 86,
+      "name": "Outdoor Bootcamp Classes",
+      "type": "fitness/wellness",
+      "description": "Join outdoor bootcamp classes held in parks across Lisbon, combining cardio, strength training, and HIIT exercises.",
+      "address": "Various parks in Lisbon, Portugal"
+    },
+    {
+      "id": 87,
+      "name": "Pilates Studio Sessions",
+      "type": "fitness/wellness",
+      "description": "Participate in Pilates sessions at specialized studios in Lisbon, focusing on core strength, flexibility, and posture.",
+      "address": "Various Pilates studios in Lisbon, Portugal"
+    },
+    {
+      "id": 88,
+      "name": "Mindfulness Meditation Workshops",
+      "type": "fitness/wellness",
+      "description": "Attend mindfulness meditation workshops in Lisbon, learning techniques for stress reduction and mental clarity.",
+      "address": "Various locations in Lisbon, Portugal"
+    },
+    {
+      "id": 89,
+      "name": "Yoga Retreats",
+      "type": "fitness/wellness",
+      "description": "Escape to yoga retreats held in tranquil locations near Lisbon, offering yoga classes, meditation, and relaxation.",
+      "address": "Various retreat centers near Lisbon, Portugal"
+    },
+    {
+      "id": 90,
+      "name": "Functional Training Workshops",
+      "type": "fitness/wellness",
+      "description": "Attend functional training workshops in Lisbon, focusing on improving movement patterns and functional strength.",
+      "address": "Various fitness centers in Lisbon, Portugal"
+    },
+    {
+      "id": 91,
+      "name": "Healthy Cooking Classes",
+      "type": "fitness/wellness",
+      "description": "Take part in healthy cooking classes in Lisbon, learning to prepare nutritious meals and snacks for optimal wellness.",
+      "address": "Various cooking schools in Lisbon, Portugal"
+    },
+    {
+      "id": 92,
+      "name": "Wellness Retreats",
+      "type": "fitness/wellness",
+      "description": "Indulge in wellness retreats near Lisbon, offering spa treatments, yoga, meditation, and healthy cuisine.",
+      "address": "Various wellness centers near Lisbon, Portugal"
+    },
+    {
+      "id": 93,
+      "name": "Tai Chi Classes",
+      "type": "fitness/wellness",
+      "description": "Practice Tai Chi in Lisbon, joining classes that focus on gentle movements, breathwork, and relaxation techniques.",
+      "address": "Various locations in Lisbon, Portugal"
+    },
+    {
+      "id": 94,
+      "name": "Group Fitness Classes",
+      "type": "fitness/wellness",
+      "description": "Participate in group fitness classes at gyms and fitness centers in Lisbon, including Zumba, spinning, and circuit training.",
+      "address": "Various fitness centers in Lisbon, Portugal"
+    },
+    {
+      "id": 95,
+      "name": "Martial Arts Training",
+      "type": "fitness/wellness",
+      "description": "Learn martial arts disciplines such as karate, judo, or Brazilian jiu-jitsu at specialized studios in Lisbon.",
+      "address": "Various martial arts studios in Lisbon, Portugal"
+    },
+    {
+      "id": 96,
+      "name": "Spinning Classes",
+      "type": "fitness/wellness",
+      "description": "Join indoor spinning classes at fitness centers in Lisbon, providing high-intensity cardio workouts and motivation.",
+      "address": "Various fitness centers in Lisbon, Portugal"
+    },
+    {
+      "id": 97,
+      "name": "Barre Workouts",
+      "type": "fitness/wellness",
+      "description": "Experience barre workouts in Lisbon, combining elements of ballet, Pilates, and strength training for a full-body workout.",
+      "address": "Various fitness studios in Lisbon, Portugal"
+    },
+    {
+      "id": 98,
+      "name": "Aquatic Therapy Sessions",
+      "type": "fitness/wellness",
+      "description": "Participate in aquatic therapy sessions at specialized centers in Lisbon, offering gentle exercises in water for rehabilitation and relaxation.",
+      "address": "Various aquatic therapy centers in Lisbon, Portugal"
+    },
+    {
+      "id": 99,
+      "name": "Outdoor Yoga by the Beach",
+      "type": "fitness/wellness",
+      "description": "Practice yoga sessions by the beach in Lisbon, enjoying the soothing sound of waves and the fresh sea breeze.",
+      "address": "Various beaches near Lisbon, Portugal"
+    },
+    {
+      "id": 100,
+      "name": "Trail Running in Sintra-Cascais Natural Park",
+      "type": "fitness/wellness",
+      "description": "Explore scenic trail running routes in Sintra-Cascais Natural Park, offering challenging terrain and breathtaking views.",
+      "address": "Sintra-Cascais Natural Park, Sintra, Portugal"
+    }
+  ]
+}
