@@ -1,1404 +1,1289 @@
 {
   "data": [
-    {
-      "id": 1,
-      "name": "Belém Tower",
-      "type": "monument",
-      "description": "A historic fortress located on the Tagus River, dating back to the 16th century.",
-      "address": "Avenida Brasília, 1400-038 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": "",
-          "comment": ""
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "National Tile Museum",
-      "type": "museum",
-      "description": "Dedicated to the art of Portuguese tiles, showcasing historical and contemporary pieces.",
-      "address": "Rua da Madre de Deus, 4, 1900-312 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Bairro Alto",
-      "type": "hotspot",
-      "description": "Lively neighborhood known for its vibrant nightlife, with numerous bars and music venues.",
-      "address": "Bairro Alto, 1200-109 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Time Out Market",
-      "type": "restaurant",
-      "description": "A food hall featuring a variety of gourmet stalls offering Portuguese and international cuisine.",
-      "address": "Mercado da Ribeira, Av. 24 de Julho, 1200-479 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Lisbon Oceanarium",
-      "type": "other",
-      "description": "One of the largest indoor aquariums in Europe, showcasing marine life from various ecosystems.",
-      "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Jerónimos Monastery",
-      "type": "monument",
-      "description": "A UNESCO World Heritage site, renowned for its Manueline architecture and historical significance.",
-      "address": "Praça do Império, 1400-206 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Lisbon Zoo",
-      "type": "outdoor activity",
-      "description": "A popular zoo featuring a wide range of animals, including exotic species and interactive exhibits.",
-      "address": "Estrada de Benfica 158-160, 1549-004 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Parque das Nações",
-      "type": "outdoor activity",
-      "description": "A modern district built for the 1998 World Expo, featuring parks, gardens, and cultural attractions.",
-      "address": "1990-247 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Lisbon Under Stars",
-      "type": "outdoor activity",
-      "description": "An immersive multimedia show held at the ruins of the Carmo Convent, showcasing Lisbon's history.",
-      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Cristo Rei",
-      "type": "monument",
-      "description": "A statue of Jesus Christ overlooking the city, offering panoramic views of Lisbon and the Tagus River.",
-      "address": "Almada, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "name": "Calouste Gulbenkian Museum",
-      "type": "museum",
-      "description": "Houses an extensive collection of art spanning from ancient to contemporary periods.",
-      "address": "Av. de Berna 45A, 1067-001 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "São Jorge Castle",
-      "type": "monument",
-      "description": "A historic Moorish castle offering panoramic views of Lisbon and the Tagus River.",
-      "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Lisbon Cathedral",
-      "type": "monument",
-      "description": "The oldest church in the city, showcasing a blend of Romanesque and Gothic architecture.",
-      "address": "Largo da Sé, 1100-585 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Miradouro da Senhora do Monte",
-      "type": "outdoor activity",
-      "description": "A viewpoint offering stunning panoramic views of Lisbon's skyline.",
-      "address": "Largo do Monte, 1170-253 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "name": "MAAT - Museum of Art, Architecture and Technology",
-      "type": "museum",
-      "description": "Dedicated to contemporary art, architecture, and technology, housed in a modern building.",
-      "address": "Av. Brasília, 1300-598 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "Lisbon Tram 28",
-      "type": "other",
-      "description": "An iconic tram route traversing Lisbon's historic neighborhoods, offering scenic views.",
-      "address": "Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "name": "Rossio Square",
-      "type": "hotspot",
-      "description": "A bustling square in the heart of Lisbon, surrounded by historic buildings and cafes.",
-      "address": "Praça de D. Pedro IV, 1100-201 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Lisbon Story Center",
-      "type": "museum",
-      "description": "An interactive museum chronicling the history of Lisbon, from ancient times to the present.",
-      "address": "Terreiro do Paço, 78-81, 1100-148 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "name": "Pena Palace",
-      "type": "monument",
-      "description": "A colorful Romanticist palace perched on a hilltop, offering panoramic views of Sintra and the coast.",
-      "address": "Estrada da Pena, 2710-609 Sintra, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "name": "Lisbon Botanical Garden",
-      "type": "outdoor activity",
-      "description": "A serene botanical garden featuring a diverse collection of plant species from around the world.",
-      "address": "Calçada da Ajuda, 1300-011 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "name": "Feira da Ladra",
-      "type": "other",
-      "description": "A famous flea market offering a wide range of goods, from antiques to clothing and handicrafts.",
-      "address": "Campo de Santa Clara, 1100-471 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "name": "LX Factory",
-      "type": "hotspot",
-      "description": "A trendy industrial complex housing shops, cafes, restaurants, and cultural spaces.",
-      "address": "Rua Rodrigues de Faria 103, 1300-501 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "name": "Carmo Archaeological Museum",
-      "type": "museum",
-      "description": "Housed in the ruins of the Carmo Convent, featuring archaeological artifacts and exhibitions.",
-      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "name": "Santa Justa Lift",
-      "type": "monument",
-      "description": "An iconic wrought-iron elevator offering panoramic views of Lisbon's downtown.",
-      "address": "Rua do Ouro, 1150-060 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "name": "Lisbon Zoo",
-      "type": "outdoor activity",
-      "description": "A popular zoo featuring a wide range of animals, including exotic species and interactive exhibits.",
-      "address": "Estrada de Benfica 158-160, 1549-004 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "name": "Elevador da Bica",
-      "type": "monument",
-      "description": "A historic funicular railway connecting the Bairro Alto to the riverside neighborhood of Cais do Sodré.",
-      "address": "Rua da Bica de Duarte Belo, 1200-109 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "name": "Parque Eduardo VII",
-      "type": "outdoor activity",
-      "description": "A large public park offering panoramic views of Lisbon and featuring landscaped gardens.",
-      "address": "Av. Sidónio Pais, 1070-051 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "name": "Ajuda National Palace",
-      "type": "monument",
-      "description": "A neoclassical palace with opulent interiors and extensive gardens, once the royal residence.",
-      "address": "Largo da Ajuda, 1349-021 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "name": "Berardo Collection Museum",
-      "type": "museum",
-      "description": "Houses a vast collection of modern and contemporary art, including works by Picasso and Warhol.",
-      "address": "Praça do Império, 1449-003 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "name": "Lisbon Oceanarium",
-      "type": "other",
-      "description": "One of the largest indoor aquariums in Europe, showcasing marine life from various ecosystems.",
-      "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "name": "Largo do Carmo",
-      "type": "hotspot",
-      "description": "A historic square featuring the ruins of the Carmo Convent and offering scenic views of Lisbon.",
-      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "name": "Praça do Comércio",
-      "type": "hotspot",
-      "description": "A grand square facing the Tagus River, surrounded by historic buildings and arcades.",
-      "address": "Praça do Comércio, 1100-148 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "name": "Lisbon Under Stars",
-      "type": "outdoor activity",
-      "description": "An immersive multimedia show held at the ruins of the Carmo Convent, showcasing Lisbon's history.",
-      "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "name": "Lisbon Science Museum",
-      "type": "museum",
-      "description": "Interactive exhibits exploring science, technology, and innovation, suitable for all ages.",
-      "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "name": "São Carlos National Theatre",
-      "type": "other",
-      "description": "A historic theater hosting opera, ballet, and classical music performances.",
-      "address": "Largo de São Carlos, 1200-410 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "name": "Lisbon Greenhouse",
-      "type": "outdoor activity",
-      "description": "A charming greenhouse housing exotic plants and offering a tranquil escape from the city.",
-      "address": "Rua da Palmeira, 1300-219 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "name": "Monastery of São Vicente de Fora",
-      "type": "monument",
-      "description": "A 17th-century monastery known for its ornate interior and panoramic views from the rooftop terrace.",
-      "address": "Largo de São Vicente, 1100-572 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "name": "Museum of Lisbon",
-      "type": "museum",
-      "description": "Chronicles the history and culture of Lisbon through exhibits, artifacts, and multimedia displays.",
-      "address": "Campo Grande 245, 1700-091 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "name": "Pavilhão do Conhecimento",
-      "type": "museum",
-      "description": "A science museum with hands-on exhibits and interactive activities, suitable for all ages.",
-      "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "name": "Lisbon Jerónimos Monastery",
-      "type": "monument",
-      "description": "A UNESCO World Heritage site, renowned for its Manueline architecture and historical significance.",
-      "address": "Praça do Império, 1400-206 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "name": "Amoreiras 360 Panoramic View",
-      "type": "monument",
-      "description": "An observation deck offering panoramic views of Lisbon from the top of the Amoreiras Shopping Center.",
-      "address": "Rua Professor António Carvalho de Figueiredo, 1070-000 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 42,
-      "name": "Lisbon Municipal Square",
-      "type": "hotspot",
-      "description": "A historic square featuring the Lisbon City Hall and surrounded by cafes and shops.",
-      "address": "Praça do Município, 1100-011 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "name": "Lisbon Botanical Garden",
-      "type": "outdoor activity",
-      "description": "A serene botanical garden featuring a diverse collection of plant species from around the world.",
-      "address": "Calçada da Ajuda, 1300-011 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "name": "Lisbon Planetarium",
-      "type": "other",
-      "description": "Offers educational astronomy shows and exhibits, suitable for visitors of all ages.",
-      "address": "Praça do Império, 1400-206 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "name": "Lisbon Coach Museum",
-      "type": "museum",
-      "description": "Houses a unique collection of historic coaches and carriages, showcasing centuries of transportation.",
-      "address": "Av. da Índia, 136, 1300-004 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "name": "Lisbon Cable Car",
-      "type": "other",
-      "description": "A scenic cable car ride offering panoramic views of the city, from Parque das Nações to the waterfront.",
-      "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 47,
-      "name": "Lisbon Design Museum",
-      "type": "museum",
-      "description": "Showcases Portuguese and international design, including furniture, fashion, and graphic design.",
-      "address": "Rua Augusta, 24, 1100-053 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "name": "Museum of Aljube - Resistance and Freedom",
-      "type": "museum",
-      "description": "Chronicles the history of resistance against dictatorship in Portugal, featuring exhibitions and archives.",
-      "address": "Rua de Augusto Rosa, 42, 1100-059 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "name": "Estrela Basilica",
-      "type": "monument",
-      "description": "A neoclassical basilica featuring a large dome and ornate interior, located in the Estrela district.",
-      "address": "Praça da Estrela, 1200-667 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "name": "Lisbon City Museum",
-      "type": "museum",
-      "description": "Dedicated to the history and culture of Lisbon, with exhibits on archaeology, art, and ethnography.",
-      "address": "Campo Grande 245, 1700-091 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "name": "Lisbon Waterfront",
-      "type": "hotspot",
-      "description": "A picturesque area along the Tagus River, with promenades, cafes, and scenic views of the water.",
-      "address": "Avenida Dom Carlos I, 1200-109 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "name": "Santa Catarina Viewpoint",
-      "type": "hotspot",
-      "description": "A popular viewpoint offering panoramic views of the city and the Tagus River, especially at sunset.",
-      "address": "Calçada do Combro 58, 1200-114 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 53,
-      "name": "Lisbon Riverside Walk",
-      "type": "hotspot",
-      "description": "A scenic walkway along the banks of the Tagus River, perfect for leisurely strolls and relaxation.",
-      "address": "Passeio Marítimo de Alcântara, 1350-352 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "name": "Rua Augusta Arch",
-      "type": "hotspot",
-      "description": "A triumphal arch at the entrance to the Rua Augusta pedestrian street, offering views of downtown Lisbon.",
-      "address": "Rua Augusta, 2, 1100-053 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "name": "Municipal Square",
-      "type": "hotspot",
-      "description": "A historic square in the heart of Lisbon, surrounded by elegant buildings and bustling cafes.",
-      "address": "Praça do Município, 1100-011 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 56,
-      "name": "Park Bar",
-      "type": "bar",
-      "description": "A rooftop bar offering panoramic views of Lisbon, known for its trendy atmosphere and cocktails.",
-      "address": "Calçada do Combro 58, 1200-114 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 57,
-      "name": "Pensão Amor",
-      "type": "bar",
-      "description": "A former brothel turned into a vibrant bar with quirky decor, live music, and creative cocktails.",
-      "address": "Rua do Alecrim 19, 1200-292 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 58,
-      "name": "Foxtrot Bar",
-      "type": "bar",
-      "description": "A cozy speakeasy-style bar with a retro ambiance, serving craft cocktails and live jazz music.",
-      "address": "Rua São João da Praça 45, 1100-520 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 59,
-      "name": "The Old Pharmacy",
-      "type": "bar",
-      "description": "A themed bar designed to resemble an old pharmacy, offering a unique setting and creative cocktails.",
-      "address": "R. do Diário de Notícias 73, 1200-147 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 60,
-      "name": "Pavilhão Chinês",
-      "type": "bar",
-      "description": "An eclectic bar housed in a former Chinese grocery store, featuring vintage decor and a vast collection of curiosities.",
-      "address": "R. Dom Pedro V 89, 1250-093 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 61,
-      "name": "Red Frog Speakeasy Bar",
-      "type": "bar",
-      "description": "A hidden speakeasy bar with a Prohibition-era theme, offering craft cocktails and live jazz.",
-      "address": "Rua do Salitre 5A, 1250-201 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 62,
-      "name": "Bairro Alto Hotel Rooftop Bar",
-      "type": "bar",
-      "description": "A stylish rooftop bar offering panoramic views of Lisbon's historic district and the Tagus River.",
-      "address": "Praça Luís de Camões 2, 1200-243 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 63,
-      "name": "Topo Chiado",
-      "type": "bar",
-      "description": "A rooftop bar with stunning views of Lisbon's skyline and the São Jorge Castle, serving cocktails and tapas.",
-      "address": "Praça Martim Moniz, 2, 1100-341 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "name": "The Decadente",
-      "type": "bar",
-      "description": "A trendy bar located in a historic building, known for its laid-back ambiance, craft cocktails, and live music.",
-      "address": "Rua de São Pedro de Alcântara 81, 1250-238 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 65,
-      "name": "Lost In Esplanada Bar",
-      "type": "bar",
-      "description": "A bohemian-style bar with a relaxed atmosphere, offering outdoor seating and views of the city.",
-      "address": "R. Dom Pedro V 56, 1250-094 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 66,
-      "name": "Lux Frágil",
-      "type": "club",
-      "description": "A renowned nightclub with multiple floors, featuring electronic music, live performances, and a riverside terrace.",
-      "address": "Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 67,
-      "name": "Kremlin",
-      "type": "club",
-      "description": "An energetic nightclub with multiple dance floors, playing a mix of electronic, hip-hop, and pop music.",
-      "address": "Av. 24 de Julho 68, 1200-868 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 68,
-      "name": "Urban Beach",
-      "type": "club",
-      "description": "A popular nightclub located by the river, known for its vibrant atmosphere, DJ sets, and themed parties.",
-      "address": "Cais da Viscondessa, 1200-109 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "name": "Main - Discoteca",
-      "type": "club",
-      "description": "A spacious nightclub with multiple bars and dance floors, playing a mix of house, techno, and commercial hits.",
-      "address": "Cais Sodré, Armazém A, Rua Nova do Carvalho, 1200-161 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "name": "Tokyo Lisboa",
-      "type": "club",
-      "description": "An iconic nightclub with a futuristic design, known for its electronic music, laser shows, and themed parties.",
-      "address": "R. da Cintura do Porto de Lisboa, Armazém H (Cais da Ribeira), 1200-450 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 71,
-      "name": "Lust in Rio",
-      "type": "club",
-      "description": "A glamorous riverside nightclub with VIP areas, offering a mix of electronic and commercial music.",
-      "address": "Cais da Ribeira Nova Armazém B 1200-450 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "name": "MusicBox",
-      "type": "club",
-      "description": "An intimate nightclub known for its eclectic music selection, featuring live bands, DJs, and themed nights.",
-      "address": "R. Nova do Carvalho 24, 1200-014 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "name": "Plateau",
-      "type": "club",
-      "description": "A stylish nightclub with a focus on electronic music, featuring international DJs and themed events.",
-      "address": "Largo da Academia Nacional de Belas Artes 1, 1200-005 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "name": "Barrio Latino",
-      "type": "club",
-      "description": "A Latin-themed nightclub with multiple dance floors, offering salsa, bachata, and Latin music.",
-      "address": "R. da Cintura do Porto de Lisboa, Armazém A, 1200-450 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "name": "Indústria Club",
-      "type": "club",
-      "description": "A warehouse-style nightclub with industrial decor, playing a mix of techno, house, and underground electronic music.",
-      "address": "Rua da Cintura do Porto de Lisboa, Armazém 2, Cais da Ribeira, 1200-450 Lisboa, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "name": "Cycling along the Tagus River",
-      "type": "outdoor activity",
-      "description": "Rent a bike and explore the scenic bike paths along the Tagus River, passing by landmarks and enjoying waterfront views.",
-      "address": "Tagus River waterfront, Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 77,
-      "name": "Hiking in Monsanto Forest Park",
-      "type": "outdoor activity",
-      "description": "Embark on hiking trails in Monsanto Forest Park, offering lush greenery, viewpoints, and a variety of terrain to explore.",
-      "address": "Monsanto Forest Park, Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "name": "Rock Climbing in Cascais",
-      "type": "outdoor activity",
-      "description": "Head to the cliffs of Cascais for rock climbing adventures, suitable for climbers of all levels, with stunning coastal views.",
-      "address": "Cascais, Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 79,
-      "name": "Surfing at Carcavelos Beach",
-      "type": "outdoor activity",
-      "description": "Hit the waves at Carcavelos Beach, one of the most popular surfing spots near Lisbon, known for its consistent waves.",
-      "address": "Praia de Carcavelos, Cascais, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 80,
-      "name": "Stand-up Paddleboarding on the Tagus River",
-      "type": "outdoor activity",
-      "description": "Experience stand-up paddleboarding on the calm waters of the Tagus River, with opportunities to admire Lisbon's landmarks.",
-      "address": "Tagus River, Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "name": "Yoga in the Park",
-      "type": "outdoor activity",
-      "description": "Join outdoor yoga sessions held in parks across Lisbon, offering a peaceful environment for relaxation and fitness.",
-      "address": "Various parks in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "name": "Running along the Lisbon Waterfront",
-      "type": "outdoor activity",
-      "description": "Go for a run along the Lisbon Waterfront, enjoying scenic views of the Tagus River and passing by iconic landmarks.",
-      "address": "Tagus River waterfront, Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "name": "Kayaking in Arrábida Natural Park",
-      "type": "outdoor activity",
-      "description": "Explore the stunning coastline of Arrábida Natural Park by kayak, with crystal-clear waters and hidden caves to discover.",
-      "address": "Arrábida Natural Park, Setúbal, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "name": "Canyoning in Sintra-Cascais Natural Park",
-      "type": "outdoor activity",
-      "description": "Embark on a canyoning adventure in Sintra-Cascais Natural Park, rappelling down waterfalls and exploring rugged canyons.",
-      "address": "Sintra-Cascais Natural Park, Sintra, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 85,
-      "name": "Mountain Biking in Sintra Mountains",
-      "type": "outdoor activity",
-      "description": "Mountain bike through the trails of Sintra Mountains, offering challenging routes and stunning views of the countryside.",
-      "address": "Sintra Mountains, Sintra, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 86,
-      "name": "Outdoor Bootcamp Classes",
-      "type": "fitness/wellness",
-      "description": "Join outdoor bootcamp classes held in parks across Lisbon, combining cardio, strength training, and HIIT exercises.",
-      "address": "Various parks in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "name": "Pilates Studio Sessions",
-      "type": "fitness/wellness",
-      "description": "Participate in Pilates sessions at specialized studios in Lisbon, focusing on core strength, flexibility, and posture.",
-      "address": "Various Pilates studios in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "name": "Mindfulness Meditation Workshops",
-      "type": "fitness/wellness",
-      "description": "Attend mindfulness meditation workshops in Lisbon, learning techniques for stress reduction and mental clarity.",
-      "address": "Various locations in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 89,
-      "name": "Yoga Retreats",
-      "type": "fitness/wellness",
-      "description": "Escape to yoga retreats held in tranquil locations near Lisbon, offering yoga classes, meditation, and relaxation.",
-      "address": "Various retreat centers near Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 90,
-      "name": "Functional Training Workshops",
-      "type": "fitness/wellness",
-      "description": "Attend functional training workshops in Lisbon, focusing on improving movement patterns and functional strength.",
-      "address": "Various fitness centers in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 91,
-      "name": "Healthy Cooking Classes",
-      "type": "fitness/wellness",
-      "description": "Take part in healthy cooking classes in Lisbon, learning to prepare nutritious meals and snacks for optimal wellness.",
-      "address": "Various cooking schools in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 92,
-      "name": "Wellness Retreats",
-      "type": "fitness/wellness",
-      "description": "Indulge in wellness retreats near Lisbon, offering spa treatments, yoga, meditation, and healthy cuisine.",
-      "address": "Various wellness centers near Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "name": "Tai Chi Classes",
-      "type": "fitness/wellness",
-      "description": "Practice Tai Chi in Lisbon, joining classes that focus on gentle movements, breathwork, and relaxation techniques.",
-      "address": "Various locations in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 94,
-      "name": "Group Fitness Classes",
-      "type": "fitness/wellness",
-      "description": "Participate in group fitness classes at gyms and fitness centers in Lisbon, including Zumba, spinning, and circuit training.",
-      "address": "Various fitness centers in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 95,
-      "name": "Martial Arts Training",
-      "type": "fitness/wellness",
-      "description": "Learn martial arts disciplines such as karate, judo, or Brazilian jiu-jitsu at specialized studios in Lisbon.",
-      "address": "Various martial arts studios in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 96,
-      "name": "Spinning Classes",
-      "type": "fitness/wellness",
-      "description": "Join indoor spinning classes at fitness centers in Lisbon, providing high-intensity cardio workouts and motivation.",
-      "address": "Various fitness centers in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 97,
-      "name": "Barre Workouts",
-      "type": "fitness/wellness",
-      "description": "Experience barre workouts in Lisbon, combining elements of ballet, Pilates, and strength training for a full-body workout.",
-      "address": "Various fitness studios in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 98,
-      "name": "Aquatic Therapy Sessions",
-      "type": "fitness/wellness",
-      "description": "Participate in aquatic therapy sessions at specialized centers in Lisbon, offering gentle exercises in water for rehabilitation and relaxation.",
-      "address": "Various aquatic therapy centers in Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "name": "Outdoor Yoga by the Beach",
-      "type": "fitness/wellness",
-      "description": "Practice yoga sessions by the beach in Lisbon, enjoying the soothing sound of waves and the fresh sea breeze.",
-      "address": "Various beaches near Lisbon, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "name": "Trail Running in Sintra-Cascais Natural Park",
-      "type": "fitness/wellness",
-      "description": "Explore scenic trail running routes in Sintra-Cascais Natural Park, offering challenging terrain and breathtaking views.",
-      "address": "Sintra-Cascais Natural Park, Sintra, Portugal",
-      "image": "",
-      "comments": [
-        {
-          "user_name": [],
-          "comment": []
-        }
-      ]
-    }
-  ]
+      {
+        "id": 1,
+        "name": "Belém Tower",
+        "type": "monument",
+        "description": "A historic fortress located on the Tagus River, dating back to the 16th century.",
+        "address": "Avenida Brasília, 1400-038 Lisboa, Portugal",
+        "image": "https://cdn-imgix.headout.com/microbrands-content-image/image/f9f98c000d2b02dd4c5cc8837389b8f1-AdobeStock_164147478.jpeg?auto=format&w=814.9333333333333&h=458.4&q=90&ar=16%3A9&crop=faces",
+        "average_price_euros": "€10",
+        "website": "https://www.belemtower.pt/",
+        "opening_hours": "Monday to Sunday: 10:00 AM to 6:30 PM",
+        "geolocation": ["38.691389", "-9.215"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "National Tile Museum",
+        "type": "museum",
+        "description": "Dedicated to the art of Portuguese tiles, showcasing historical and contemporary pieces.",
+        "address": "Rua da Madre de Deus, 4, 1900-312 Lisboa, Portugal",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lisbonportugaltourism.com%2Fimages%2Ftile-museum.jpg&tbnid=YSIJBUoeeWNaWM&vet=12ahUKEwjLwoCT1ryEAxVvVqQEHYEYCsIQMygCegQIARBJ..i&imgrefurl=https%3A%2F%2Fwww.lisbonportugaltourism.com%2Fguide%2Fazulejo-tile-museum.html&docid=f4dNprniFYmfSM&w=780&h=515&q=national%20tile%20museum%20lisbon&ved=2ahUKEwjLwoCT1ryEAxVvVqQEHYEYCsIQMygCegQIARBJ",
+        "average_price_euros": "€15",
+        "website": "https://www.museudoazulejo.gov.pt/",
+        "opening_hours": "Tuesday to Sunday: 10:00 AM to 6:00 PM",
+        "geolocation": ["38.722425", "-9.125967"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bairro Alto",
+        "type": "hotspot",
+        "description": "Lively neighborhood known for its vibrant nightlife, with numerous bars and music venues.",
+        "address": "Bairro Alto, 1200-109 Lisboa, Portugal",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.lostinlisbon.com%2Ffotos%2Feditor2%2Flost_in_lisbon_bairro_1192x705px.png&tbnid=zg8FLaJ1kzn7bM&vet=12ahUKEwiSgq2h1ryEAxWAdaQEHYGKD_AQMygLegQIARBn..i&imgrefurl=https%3A%2F%2Fwww.lostinlisbon.com%2Fpt%2Fblog%2Fa-magia-das-ruas-do-bairro-alto-chiado-e-cais-do-sodre%2F&docid=mB0m4h0X7AVO7M&w=1192&h=705&q=bairro%20alto%20&ved=2ahUKEwiSgq2h1ryEAxWAdaQEHYGKD_AQMygLegQIARBn",
+        "average_price_euros": "€20",
+        "website": "https://www.bairro-alto.com/",
+        "opening_hours": "Monday to Sunday: 7:00 PM to 3:00 AM",
+        "geolocation": ["38.710301", "-9.144927"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Time Out Market",
+        "type": "restaurant",
+        "description": "A food hall featuring a variety of gourmet stalls offering Portuguese and international cuisine.",
+        "address": "Mercado da Ribeira, Av. 24 de Julho, 1200-479 Lisboa, Portugal",
+        "image": "https://www.viajenaviagem.com/wp-content/uploads/2018/08/lisboa-mercado-ribeira-1.jpg",
+        "average_price_euros": "€25",
+        "website": "https://www.timeoutmarket.com/",
+        "opening_hours": "Monday to Sunday: 10:00 AM to 12:00 AM",
+        "geolocation": ["38.706928", "-9.143869"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Lisbon Oceanarium",
+        "type": "other",
+        "description": "One of the largest indoor aquariums in Europe, showcasing marine life from various ecosystems.",
+        "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, Portugal",
+        "image": "https://lisboacamping.com/wp-content/uploads/2020/03/LisbonOceanarium.jpg",
+        "average_price_euros": "€18",
+        "website": "https://www.oceanario.pt/",
+        "opening_hours": "Monday to Sunday: 10:00 AM to 7:00 PM",
+        "geolocation": ["38.766891", "-9.095250"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Jerónimos Monastery",
+        "type": "monument",
+        "description": "A UNESCO World Heritage site, renowned for its Manueline architecture and historical significance.",
+        "address": "Praça do Império, 1400-206 Lisboa, Portugal",
+        "image": "https://www.vounajanela.com/wp-content/uploads/2023/06/mosteiro-jeronimos-lisboa-1.jpg",
+        "average_price_euros": "€12",
+        "website": "http://www.mosteirojeronimos.pt/",
+        "opening_hours": "Monday to Sunday: 10:00 AM to 6:30 PM",
+        "geolocation": ["38.697891", "-9.206708"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Lisbon Zoo",
+        "type": "outdoor activity",
+        "description": "A popular zoo featuring a wide range of animals, including exotic species and interactive exhibits.",
+        "address": "Estrada de Benfica 158-160, 1549-004 Lisboa, Portugal",
+        "image": "https://mochiloesemochilinhas.com/wp-content/uploads/2021/11/20210830_152238.jpg",
+        "average_price_euros": "€10",
+        "website": "https://www.zoo.pt/",
+        "opening_hours": "Monday to Sunday: 10:00 AM to 6:00 PM",
+        "geolocation": ["38.740590", "-9.188782"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Parque das Nações",
+        "type": "outdoor activity",
+        "description": "A modern district built for the 1998 World Expo, featuring parks, gardens, and cultural attractions.",
+        "address": "1990-247 Lisboa, Portugal",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504049124.jpg?k=4a710a96f2728c4a2b2c9cf090e01c02dba4e2ef8b314a1ab1a119d5ef8efa9e&o=&hp=1",
+        "average_price_euros": "€0",
+        "website": "https://www.parquedasnacoes.pt/",
+        "opening_hours": "Always Open",
+        "geolocation": ["38.767049", "-9.099429"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Lisbon Under Stars",
+        "type": "outdoor activity",
+        "description": "An immersive multimedia show held at the ruins of the Carmo Convent, showcasing Lisbon's history.",
+        "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+        "image": "https://bilheteira.fnac.pt/fileserver/Images/Novas/Agosto20_03/LISBON%20UNDER%20STARS_755X470.jpg",
+        "average_price_euros": "€8",
+        "website": "https://www.lisbonunderstars.com/",
+        "opening_hours": "Friday and Saturday: 9:00 PM to 11:00 PM",
+        "geolocation": ["38.711731", "-9.140154"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Cristo Rei",
+        "type": "monument",
+        "description": "A statue of Jesus Christ overlooking the city, offering panoramic views of Lisbon and the Tagus River.",
+        "address": "Almada, Portugal",
+        "image": "https://www.cm-almada.pt/sites/default/files/styles/main_image/public/2021-05/Cristo%20Rei%20e%20Ponte%2025%20de%20Abril.jpg?h=bcc24aa9&itok=CxFWrLxw",
+        "average_price_euros": "€0",
+        "website": "https://www.cristorei.pt/",
+        "opening_hours": "Always Open",
+        "geolocation": ["38.665895", "-9.168674"],
+        "comments": [
+          {
+            "user_name": [],
+            "comment": []
+          }
+        ]
+      },
+        {
+          "id": 11,
+          "name": "Calouste Gulbenkian Museum",
+          "type": "museum",
+          "description": "Houses an extensive collection of art spanning from ancient to contemporary periods.",
+          "address": "Av. de Berna 45A, 1067-001 Lisboa, Portugal",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Museu_Calouste_Gulbenkian_%28Main_Entrance%29.jpg",
+          "average_price_euros": "€15",
+          "website": "https://gulbenkian.pt/museu/",
+          "opening_hours": "Tuesday to Sunday: 10:00 AM to 6:00 PM",
+          "geolocation": ["38.737522", "-9.154883"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "São Jorge Castle",
+          "type": "monument",
+          "description": "A historic Moorish castle offering panoramic views of Lisbon and the Tagus River.",
+          "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
+          "image": "https://convida.pt/images/POIs/CasteloSaoJorge_01.jpg",
+          "average_price_euros": "€10",
+          "website": "https://castelodesaojorge.pt/en/",
+          "opening_hours": "Monday to Sunday: 9:00 AM to 6:00 PM",
+          "geolocation": ["38.714719", "-9.132935"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Lisbon Cathedral",
+          "type": "monument",
+          "description": "The oldest church in the city, showcasing a blend of Romanesque and Gothic architecture.",
+          "address": "Largo da Sé, 1100-585 Lisboa, Portugal",
+          "image": "https://s7a5n8m2.stackpathcdn.com/wp-content/uploads/2015/06/se-lisboa.jpg",
+          "average_price_euros": "€0",
+          "website": "https://catedraldelisboa.com/",
+          "opening_hours": "Monday to Sunday: 9:00 AM to 7:00 PM",
+          "geolocation": ["38.709539", "-9.133976"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Miradouro da Senhora do Monte",
+          "type": "outdoor activity",
+          "description": "A viewpoint offering stunning panoramic views of Lisbon's skyline.",
+          "address": "Largo do Monte, 1170-253 Lisboa, Portugal",
+          "image": "https://media.timeout.com/images/105156316/image.jpg",
+          "average_price_euros": "€0",
+          "website": "",
+          "opening_hours": "Always Open",
+          "geolocation": ["38.720295", "-9.130190"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "MAAT - Museum of Art, Architecture and Technology",
+          "type": "museum",
+          "description": "Dedicated to contemporary art, architecture, and technology, housed in a modern building.",
+          "address": "Av. Brasília, 1300-598 Lisboa, Portugal",
+          "image": "https://turismo.eurodicas.com.br/wp-content/uploads/2018/07/museu-maat-lisboa.jpg",
+          "average_price_euros": "€12",
+          "website": "https://www.maat.pt/",
+          "opening_hours": "Tuesday to Sunday: 11:00 AM to 6:00 PM",
+          "geolocation": ["38.695586", "-9.206956"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Lisbon Tram 28",
+          "type": "other",
+          "description": "An iconic tram route traversing Lisbon's historic neighborhoods, offering scenic views.",
+          "address": "Lisbon, Portugal",
+          "image": "https://lisbonlisboaportugal.com/images/og-images/lisbon-og-tram.jpg",
+          "average_price_euros": "€3",
+          "website": "https://www.yellowbustours.com/en-GB/Lisbon/Hop-On_Hop-Off/Lisbon-Tram-City-Tour",
+          "opening_hours": "Monday to Sunday: 7:00 AM to 9:00 PM",
+          "geolocation": ["38.7223", "-9.1393"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Rossio Square",
+          "type": "hotspot",
+          "description": "A bustling square in the heart of Lisbon, surrounded by historic buildings and cafes.",
+          "address": "Praça de D. Pedro IV, 1100-201 Lisboa, Portugal",
+          "image": "https://lisboncruiseport.pt/Files/risio1659x960.jpg",
+          "average_price_euros": "€0",
+          "website": "",
+          "opening_hours": "Always Open",
+          "geolocation": ["38.7148", "-9.1394"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Lisbon Story Center",
+          "type": "museum",
+          "description": "An interactive museum chronicling the history of Lisbon, from ancient times to the present.",
+          "address": "Terreiro do Paço, 78-81, 1100-148 Lisboa, Portugal",
+          "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/96/96/c6.jpg",
+          "average_price_euros": "€8",
+          "website": "https://lisbonstorycentre.com/",
+          "opening_hours": "Monday to Sunday: 10:00 AM to 8:00 PM",
+          "geolocation": ["38.708869", "-9.136593"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Pena Palace",
+          "type": "monument",
+          "description": "A colorful Romanticist palace perched on a hilltop, offering panoramic views of Sintra and the coast.",
+          "address": "Estrada da Pena, 2710-609 Sintra, Portugal",
+          "image": "https://static.wixstatic.com/media/33ef3f_cd12727c4c5d4b97af3ea68d4893f066~mv2.jpg/v1/fill/w_640,h_494,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/33ef3f_cd12727c4c5d4b97af3ea68d4893f066~mv2.jpg",
+          "average_price_euros": "€20",
+          "website": "https://www.parquesdesintra.pt/en/",
+          "opening_hours": "Monday to Sunday: 9:30 AM to 8:00 PM",
+          "geolocation": ["38.787487", "-9.390618"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Lisbon Botanical Garden",
+          "type": "outdoor activity",
+          "description": "A serene botanical garden featuring a diverse collection of plant species from around the world.",
+          "address": "Calçada da Ajuda, 1300-011 Lisboa, Portugal",
+          "image": "https://www.golisbon.com/images/lisbon/ajuda-botanical-garden.jpg",
+          "average_price_euros": "€0",
+          "website": "https://www.museus.ulisboa.pt/pt-pt/museu-nacional-de-historia-natural-e-da-ciencia",
+          "opening_hours": "Tuesday to Sunday: 10:00 AM to 5:00 PM",
+          "geolocation": ["38.703758", "-9.194822"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Feira da Ladra",
+          "type": "other",
+          "description": "A famous flea market offering a wide range of goods, from antiques to clothing and handicrafts.",
+          "address": "Campo de Santa Clara, 1100-471 Lisboa, Portugal",
+          "image": "https://www.visitlisboa.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8320b28537169b1a63b0b0cf6000844aee95985/feira-da-ladra-flea-market-1.jpg",
+          "average_price_euros": "€0",
+          "website": "",
+          "opening_hours": "Tuesday and Saturday: 9:00 AM to 6:00 PM",
+          "geolocation": ["38.712836", "-9.127745"],
+          "comments": [
+            {
+              "user_name": [],
+              "comment": []
+            }
+          ]
+        },
+          {
+            "id": 22,
+            "name": "LX Factory",
+            "type": "hotspot",
+            "description": "A trendy industrial complex housing shops, cafes, restaurants, and cultural spaces.",
+            "address": "Rua Rodrigues de Faria 103, 1300-501 Lisboa, Portugal",
+            "image": "https://imobiliario.publico.pt/media/images/sru-lx-shutterstoc.2e16d0ba.fill-720x478-c50.format-jpeg.jpg",
+            "average_price": "Varies",
+            "opening_hours": "Monday-Sunday: 10:00 AM - 8:00 PM",
+            "website": "https://www.lxfactory.com/",
+            "geolocation": [38.7051, -9.1819],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "name": "Carmo Archaeological Museum",
+            "type": "museum",
+            "description": "Housed in the ruins of the Carmo Convent, featuring archaeological artifacts and exhibitions.",
+            "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lisbonne_-_Couvent_des_Carles_-_Vue_g%C3%A9n%C3%A9rale.jpg",
+            "average_price": "€5.00",
+            "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+            "website": "https://www.museuarqueologicodocarmo.pt/",
+            "geolocation": [38.7104, -9.1407],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "name": "Santa Justa Lift",
+            "type": "monument",
+            "description": "An iconic wrought-iron elevator offering panoramic views of Lisbon's downtown.",
+            "address": "Rua do Ouro, 1150-060 Lisboa, Portugal",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4f/a2/8f/elevador-de-santa-justa.jpg?w=1200&h=1200&s=1",
+            "average_price": "€5.15",
+            "opening_hours": "Monday-Sunday: 7:00 AM - 10:45 PM",
+            "website": "https://carris.pt/en/elevador-de-santa-justa/",
+            "geolocation": [38.7127, -9.1394],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "name": "Lisbon Zoo",
+            "type": "outdoor activity",
+            "description": "A popular zoo featuring a wide range of animals, including exotic species and interactive exhibits.",
+            "address": "Estrada de Benfica 158-160, 1549-004 Lisboa, Portugal",
+            "image": "https://media1.travelguide.de/media/2019/03/lissabon-zoo.jpg",
+            "average_price": "€20.00",
+            "opening_hours": "Monday-Sunday: 10:00 AM - 6:00 PM",
+            "website": "https://www.zoo.pt/en/",
+            "geolocation": [38.7468, -9.1846],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "name": "Elevador da Bica",
+            "type": "monument",
+            "description": "A historic funicular railway connecting the Bairro Alto to the riverside neighborhood of Cais do Sodré.",
+            "address": "Rua da Bica de Duarte Belo, 1200-109 Lisboa, Portugal",
+            "image": "https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2021/01/19045434/bica-%40denisgiacobelis-scaled-e1610979585930.jpg",
+            "average_price": "Varies",
+            "opening_hours": "Monday-Sunday: 7:00 AM - 9:00 PM",
+            "website": "https://www.visitlisboa.com/en/places/elevador-da-bica/",
+            "geolocation": [38.7108, -9.1448],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "name": "Parque Eduardo VII",
+            "type": "outdoor activity",
+            "description": "A large public park offering panoramic views of Lisbon and featuring landscaped gardens.",
+            "address": "Av. Sidónio Pais, 1070-051 Lisboa, Portugal",
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/80/c0.jpg",
+            "average_price": "Free",
+            "opening_hours": "Monday-Sunday: Open 24 hours",
+            "website": "https://www.lisbonlux.com/lisbon/eduardo-vii-park/",
+            "geolocation": [38.7309, -9.1606],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "name": "Ajuda National Palace",
+            "type": "monument",
+            "description": "A neoclassical palace with opulent interiors and extensive gardens, once the royal residence.",
+            "address": "Largo da Ajuda, 1349-021 Lisboa, Portugal",
+            "image": "https://st3.idealista.pt/news/arquivos/styles/amp_1200x675_16_9/public/2020-11/lisbon_the_palacio_nacional_da_ajuda_1.jpg?VersionId=Cr_aNOICOfzi8VuhPaCFTbIcZ.I78al0&itok=LI0Sh8fc",
+            "average_price": "€10.00",
+            "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+            "website": "https://www.parquesdesintra.pt/en/",
+            "geolocation": [38.7103, -9.1984],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "name": "Berardo Collection Museum",
+            "type": "museum",
+            "description": "Houses a vast collection of modern and contemporary art, including works by Picasso and Warhol.",
+            "address": "Praça do Império, 1449-003 Lisboa, Portugal",
+            "image": "https://cdn.jornaldenegocios.pt/images/2022-12/img_1280x720$2022_12_27_18_50_03_442972.jpg",
+            "average_price": "Free",
+            "opening_hours": "Monday, Wednesday-Sunday: 10:00 AM - 7:00 PM\nTuesday: Closed",
+            "website": "https://en.museuberardo.pt/",
+            "geolocation": [38.6992, -9.2065],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 31,
+            "name": "Largo do Carmo",
+            "type": "hotspot",
+            "description": "A historic square featuring the ruins of the Carmo Convent and offering scenic views of Lisbon.",
+            "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+            "image": "https://euroveloportugal.com/files/2016/07/largo-do-carmo.jpg",
+            "average_price": "Free",
+            "opening_hours": "Monday-Sunday: Open 24 hours",
+            "website": "https://www.lisbonlux.com/lisbon/carmo-square/",
+            "geolocation": [38.7103, -9.1419],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+          {
+            "id": 32,
+            "name": "Praça do Comércio",
+            "type": "hotspot",
+            "description": "A grand square facing the Tagus River, surrounded by historic buildings and arcades.",
+            "address": "Praça do Comércio, 1100-148 Lisboa, Portugal",
+            "image": "https://i0.wp.com/turismo.eurodicas.com.br/wp-content/uploads/2019/04/praca-do-comercio-em-lisboa.jpg?fit=1360%2C907&ssl=1",
+            "average_price": "Free",
+            "opening_hours": "Monday-Sunday: Open 24 hours",
+            "website": "https://www.lisbonlux.com/lisbon/commerce-square/",
+            "geolocation": [38.7071, -9.1364],
+            "comments": [
+              {
+                "user_name": [],
+                "comment": []
+              }
+            ]
+          },
+            {
+              "id": 33,
+              "name": "Lisbon Under Stars",
+              "type": "outdoor activity",
+              "description": "An immersive multimedia show held at the ruins of the Carmo Convent, showcasing Lisbon's history.",
+              "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+              "image": "",
+              "average_price": "€15.00",
+              "opening_hours": "Monday-Sunday: 9:00 PM - 11:00 PM",
+              "website": "https://www.lisbonunderstars.com/",
+              "geolocation": [38.7104, -9.1407],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+            {
+              "id": 34,
+              "name": "Lisbon Science Museum",
+              "type": "museum",
+              "description": "Interactive exhibits exploring science, technology, and innovation, suitable for all ages.",
+              "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal",
+              "image": "https://www.madaboutlisbon.com/Images/973x615_pavilhao_do_conhecimento.jpg",
+              "average_price": "€9.00",
+              "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+              "website": "https://www.cienciaviva.pt/pavilhao-do-conhecimento/",
+              "geolocation": [38.7609, -9.0952],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+            {
+              "id": 35,
+              "name": "São Carlos National Theatre",
+              "type": "other",
+              "description": "A historic theater hosting opera, ballet, and classical music performances.",
+              "address": "Largo de São Carlos, 1200-410 Lisboa, Portugal",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Teatro_Nacional_de_S%C3%A3o_Carlos_2021-04-20.png",
+              "average_price": "Varies",
+              "opening_hours": "Dependent on showtimes",
+              "website": "https://tnsc.pt/",
+              "geolocation": [38.7106, -9.1472],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+            {
+              "id": 36,
+              "name": "Lisbon Greenhouse",
+              "type": "outdoor activity",
+              "description": "A charming greenhouse housing exotic plants and offering a tranquil escape from the city.",
+              "address": "Rua da Palmeira, 1300-219 Lisboa, Portugal",
+              "image": "https://img.atlasobscura.com/rWOH1vUJMEzggFR5MgHxI5cYlGj10FN4206fErkDOLo/rt:fit/h:390/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zMGI3/OTYzNy01YzIxLTQ4/ZGQtOTg0ZC1kNjVk/YTk0ZDQ0YzFjZWQ0/OTUwMWVhOTBhYTEy/YWFfRXN0dWZhLVF1/ZW50ZS1MaXNib2Et/MjAxNy5qcGc.jpg",
+              "average_price": "€5.00",
+              "opening_hours": "Monday-Sunday: 10:00 AM - 6:00 PM",
+              "website": "https://www.lisbon.net/lisbon-greenhouse",
+              "geolocation": [38.7127, -9.1557],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+            {
+              "id": 37,
+              "name": "Monastery of São Vicente de Fora",
+              "type": "monument",
+              "description": "A 17th-century monastery known for its ornate interior and panoramic views from the rooftop terrace.",
+              "address": "Largo de São Vicente, 1100-572 Lisboa, Portugal",
+              "image": "https://convida.pt/images/POIs/IgrejaMosteiroSaoVicenteFora_01.jpg",
+              "average_price": "€7.00",
+              "opening_hours": "Monday-Sunday: 10:00 AM - 6:00 PM",
+              "website": "https://www.patrimoniocultural.gov.pt/en/museus-e-monumentos/dgpc/m/msvf-monastery-of-sao-vicente-de-fora/",
+              "geolocation": [38.7178, -9.1253],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+            {
+              "id": 40,
+              "name": "Lisbon Jerónimos Monastery",
+              "type": "monument",
+              "description": "A UNESCO World Heritage site, renowned for its Manueline architecture and historical significance.",
+              "address": "Praça do Império, 1400-206 Lisboa, Portugal",
+              "image": "",
+              "average_price": "€10.00",
+              "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+              "website": "https://www.mosteirodosjeronimos.pt/en/",
+              "geolocation": [38.6976, -9.2069],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+            {
+              "id": 44,
+              "name": "Lisbon Planetarium",
+              "type": "other",
+              "description": "Offers educational astronomy shows and exhibits, suitable for visitors of all ages.",
+              "address": "Praça do Império, 1400-206 Lisboa, Portugal",
+              "image": "https://cdn.getyourguide.com/img/tour/64302467e4df7.jpeg/145.jpg",
+              "average_price": "€5.00",
+              "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+              "website": "https://www.planetario.lisboa.pt/en/",
+              "geolocation": [38.6976, -9.2069],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+            {
+              "id": 45,
+              "name": "Lisbon Coach Museum",
+              "type": "museum",
+              "description": "Houses a unique collection of historic coaches and carriages, showcasing centuries of transportation.",
+              "address": "Av. da Índia, 136, 1300-004 Lisboa, Portugal",
+              "image": "https://c8.alamy.com/comp/C3YWYJ/portugal-europe-lisbon-museum-coaches-royal-coach-museum-C3YWYJ.jpg",
+              "average_price": "€8.00",
+              "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+              "website": "https://museudoscoches.gov.pt/en/",
+              "geolocation": [38.7026, -9.1998],
+              "comments": [
+                {
+                  "user_name": [],
+                  "comment": []
+                }
+              ]
+            },
+              {
+                "id": 46,
+                "name": "Lisbon Cable Car",
+                "type": "other",
+                "description": "A scenic cable car ride offering panoramic views of the city, from Parque das Nações to the waterfront.",
+                "address": "Alameda dos Oceanos, 1990-223 Lisboa, Portugal",
+                "image": "https://mediaim.expedia.com/destination/9/cb8cbddfa3b639583df730c619094c1b.jpg",
+                "average_price": "€8.00",
+                "opening_hours": "Monday-Sunday: 10:00 AM - 8:00 PM",
+                "website": "https://www.parquedasnacoes.pt/en/things-to-do/lisbon-cable-car/",
+                "geolocation": [38.7681, -9.0962],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 47,
+                "name": "Lisbon Design Museum",
+                "type": "museum",
+                "description": "Showcases Portuguese and international design, including furniture, fashion, and graphic design.",
+                "address": "Rua Augusta, 24, 1100-053 Lisboa, Portugal",
+                "image": "https://images.adsttc.com/media/images/55e8/928a/6c9d/b5e4/0f00/005a/newsletter/rcjv-arquitectos_mude_imagem-04-%25c2%25a9-fgsg.jpg?1441305220",
+                "average_price": "€7.00",
+                "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+                "website": "https://www.mude.pt/",
+                "geolocation": [38.7125, -9.1383],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 48,
+                "name": "Museum of Aljube - Resistance and Freedom",
+                "type": "museum",
+                "description": "Chronicles the history of resistance against dictatorship in Portugal, featuring exhibitions and archives.",
+                "address": "Rua de Augusto Rosa, 42, 1100-059 Lisboa, Portugal",
+                "image": "https://getlisbon.com/wp-content/uploads/2019/04/aljube-museum-13-getLISBON-1024x683.jpg",
+                "average_price": "€5.00",
+                "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+                "website": "https://www.museudoaljube.pt/en/",
+                "geolocation": [38.7147, -9.1327],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 49,
+                "name": "Estrela Basilica",
+                "type": "monument",
+                "description": "A neoclassical basilica featuring a large dome and ornate interior, located in the Estrela district.",
+                "address": "Praça da Estrela, 1200-667 Lisboa, Portugal",
+                "image": "https://cdn.visitportugal.com/sites/default/files/styles/encontre_detalhe_poi_destaque/public/mediateca/Basilica%20da%20Estrela%20660x371_ATL.jpg?itok=O9Kvi_6T",
+                "average_price": "Free",
+                "opening_hours": "Monday-Sunday: 9:00 AM - 7:00 PM",
+                "website": "https://www.lisbon.net/basilica-estrela",
+                "geolocation": [38.7137, -9.1608],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 50,
+                "name": "Lisbon City Museum",
+                "type": "museum",
+                "description": "Dedicated to the history and culture of Lisbon, with exhibits on archaeology, art, and ethnography.",
+                "address": "Campo Grande 245, 1700-091 Lisboa, Portugal",
+                "image": "https://images.turismoenportugal.org/Museu-da-Cidade-Lisboa-Portugal.jpg",
+                "average_price": "€4.00",
+                "opening_hours": "Tuesday-Sunday: 10:00 AM - 6:00 PM",
+                "website": "https://www.museudacidade.pt/en/",
+                "geolocation": [38.7609, -9.1597],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 51,
+                "name": "Lisbon Waterfront",
+                "type": "hotspot",
+                "description": "A picturesque area along the Tagus River, with promenades, cafes, and scenic views of the water.",
+                "address": "Avenida Dom Carlos I, 1200-109 Lisboa, Portugal",
+                "image": "",
+                "average_price": "Free",
+                "opening_hours": "Monday-Sunday: Open 24 hours",
+                "website": "https://www.lisbon.net/lisbon-waterfront",
+                "geolocation": [38.7067, -9.1602],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 52,
+                "name": "Santa Catarina Viewpoint",
+                "type": "hotspot",
+                "description": "A popular viewpoint offering panoramic views of the city and the Tagus River, especially at sunset.",
+                "address": "Calçada do Combro 58, 1200-114 Lisboa, Portugal",
+                "image": "https://www.homelisbonhostel.com/homelisbon-wb2019/wp-content/uploads/2021/10/92f001b6-80b0-4bf8-821d-a225f9b1fb53-istock-santacatarina.jpg",
+                "average_price": "Free",
+                "opening_hours": "Monday-Sunday: 9:00 AM - 9:00 PM",
+                "website": "https://www.lisbon.net/santa-catarina-viewpoint",
+                "geolocation": [38.7103, -9.1467],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 53,
+                "name": "Lisbon Riverside Walk",
+                "type": "hotspot",
+                "description": "A scenic walkway along the banks of the Tagus River, perfect for leisurely strolls and relaxation.",
+                "address": "Passeio Marítimo de Alcântara, 1350-352 Lisboa, Portugal",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/41/fa/bc/waterfront-promenade.jpg",
+                "average_price": "Free",
+                "opening_hours": "Monday-Sunday: Open 24 hours",
+                "website": "https://www.lisbon.net/lisbon-riverside-walk",
+                "geolocation": [38.7067, -9.1602],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 54,
+                "name": "Rua Augusta Arch",
+                "type": "hotspot",
+                "description": "A triumphal arch at the entrance to the Rua Augusta pedestrian street, offering views of downtown Lisbon.",
+                "address": "Rua Augusta, 2, 1100-053 Lisboa, Portugal",
+                "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/bf/e7.jpg",
+                "average_price": "Free",
+                "opening_hours": "Monday-Sunday: 9:00 AM - 9:00 PM",
+                "website": "https://www.lisbon.net/rua-augusta-arch",
+                "geolocation": [38.7072, -9.1356],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+              {
+                "id": 56,
+                "name": "Park Bar",
+                "type": "bar",
+                "description": "A rooftop bar offering panoramic views of Lisbon, known for its trendy atmosphere and cocktails.",
+                "address": "Calçada do Combro 58, 1200-114 Lisboa, Portugal",
+                "image": "https://goop-img.com/wp-content/uploads/2017/04/ParkBar4.jpg",
+                "average_price": "€10.00",
+                "opening_hours": "Monday-Sunday: 4:00 PM - 2:00 AM",
+                "website": "https://parkbarlisboa.com/",
+                "geolocation": [38.7103, -9.1467],
+                "comments": [
+                  {
+                    "user_name": [],
+                    "comment": []
+                  }
+                ]
+              },
+                {
+                  "id": 57,
+                  "name": "Pensão Amor",
+                  "type": "bar",
+                  "description": "A former brothel turned into a vibrant bar with quirky decor, live music, and creative cocktails.",
+                  "address": "Rua do Alecrim 19, 1200-292 Lisboa, Portugal",
+                  "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/470925254.jpg?k=77058634f84d5a5b90debb97a4a47361879d91aa5a9447fbf4dfe0a9a4586ada&o=&hp=1",
+                  "average_price": "€10.00",
+                  "opening_hours": "Sunday-Thursday: 6:00 PM - 2:00 AM, Friday-Saturday: 6:00 PM - 4:00 AM",
+                  "website": "https://www.pensaoamor.pt/",
+                  "geolocation": [38.7089, -9.1423],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 58,
+                  "name": "Foxtrot Bar",
+                  "type": "bar",
+                  "description": "A cozy speakeasy-style bar with a retro ambiance, serving craft cocktails and live jazz music.",
+                  "address": "Rua São João da Praça 45, 1100-520 Lisboa, Portugal",
+                  "image": "https://www.nit.pt/wp-content/uploads/2022/05/1fe5fc87fff1e2d35739d320fecab0c0.jpg",
+                  "average_price": "€12.00",
+                  "opening_hours": "Monday-Saturday: 6:00 PM - 2:00 AM",
+                  "website": "https://www.foxtrotbar.pt/",
+                  "geolocation": [38.7088, -9.1329],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 59,
+                  "name": "The Old Pharmacy",
+                  "type": "bar",
+                  "description": "A themed bar designed to resemble an old pharmacy, offering a unique setting and creative cocktails.",
+                  "address": "R. do Diário de Notícias 73, 1200-147 Lisboa, Portugal",
+                  "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/3f/39/84/photo1jpg.jpg",
+                  "average_price": "€8.00",
+                  "opening_hours": "Tuesday-Saturday: 6:00 PM - 2:00 AM",
+                  "website": "https://www.facebook.com/theoldpharmacylisbon/",
+                  "geolocation": [38.7101, -9.1421],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 60,
+                  "name": "Pavilhão Chinês",
+                  "type": "bar",
+                  "description": "An eclectic bar housed in a former Chinese grocery store, featuring vintage decor and a vast collection of curiosities.",
+                  "address": "R. Dom Pedro V 89, 1250-093 Lisboa, Portugal",
+                  "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024,h_683/https://portugaltravelguide.com/wp-content/uploads/2020/02/Pavilh%C3%A3o-Chin%C3%AAs.jpeg",
+                  "average_price": "€15.00",
+                  "opening_hours": "Monday-Sunday: 6:00 PM - 2:00 AM",
+                  "website": "https://www.pavilhaochines.pt/",
+                  "geolocation": [38.7157, -9.1462],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 61,
+                  "name": "Red Frog Speakeasy Bar",
+                  "type": "bar",
+                  "description": "A hidden speakeasy bar with a Prohibition-era theme, offering craft cocktails and live jazz.",
+                  "address": "Rua do Salitre 5A, 1250-201 Lisboa, Portugal",
+                  "image": "https://secretsfromportugal.com/wp-content/uploads/2019/03/image-2.jpg",
+                  "average_price": "€14.00",
+                  "opening_hours": "Tuesday-Saturday: 6:00 PM - 2:00 AM",
+                  "website": "https://www.redfrog.pt/",
+                  "geolocation": [38.7165, -9.1445],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 63,
+                  "name": "Topo Chiado",
+                  "type": "bar",
+                  "description": "A rooftop bar with stunning views of Lisbon's skyline and the São Jorge Castle, serving cocktails and tapas.",
+                  "address": "Praça Martim Moniz, 2, 1100-341 Lisboa, Portugal",
+                  "image": "https://www.weheartlisbon.com/wp-content/uploads/2018/07/Topo-Chiado-vanaf-Justa-.jpg",
+                  "average_price": "€18.00",
+                  "opening_hours": "Monday-Sunday: 4:00 PM - 2:00 AM",
+                  "website": "https://www.topo-lisboa.pt/chiado",
+                  "geolocation": [38.7154, -9.1357],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 64,
+                  "name": "The Decadente",
+                  "type": "bar",
+                  "description": "A trendy bar located in a historic building, known for its laid-back ambiance, craft cocktails, and live music.",
+                  "address": "Rua de São Pedro de Alcântara 81, 1250-238 Lisboa, Portugal",
+                  "image": "https://goop-img.com/wp-content/uploads/2017/05/Decadante1.jpg",
+                  "average_price": "€16.00",
+                  "opening_hours": "Monday-Sunday: 6:00 PM - 2:00 AM",
+                  "website": "https://thedecadente.com/",
+                  "geolocation": [38.7143, -9.1463],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 65,
+                  "name": "Lost In Esplanada Bar",
+                  "type": "bar",
+                  "description": "A bohemian-style bar with a relaxed atmosphere, offering outdoor seating and views of the city.",
+                  "address": "R. Dom Pedro V 56, 1250-094 Lisboa, Portugal",
+                  "image": "https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2020/08/19150200/%40lostin.lisbon-3.jpg",
+                  "average_price": "€12.00",
+                  "opening_hours": "Monday-Sunday: 12:00 PM - 12:00 AM",
+                  "website": "https://lostin-esplanada.pt/",
+                  "geolocation": [38.7134, -9.1441],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 66,
+                  "name": "Lux Frágil",
+                  "type": "club",
+                  "description": "A renowned nightclub with multiple floors, featuring electronic music, live performances, and a riverside terrace.",
+                  "address": "Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa, Portugal",
+                  "image": "https://convida.pt/images/POIs/LuxFragil_01.jpg",
+                  "average_price": "€20.00",
+                  "opening_hours": "Thursday-Saturday: 11:00 PM - 6:00 AM",
+                  "website": "https://luxfragil.com/",
+                  "geolocation": [38.7149, -9.1238],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                {
+                  "id": 67,
+                  "name": "Kremlin",
+                  "type": "club",
+                  "description": "An energetic nightclub with multiple dance floors, playing a mix of electronic, hip-hop, and pop music.",
+                  "address": "Av. 24 de Julho 68, 1200-868 Lisboa, Portugal",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd38yKMj9BxEzepTZsJMuwwbV3LqmP1v0OjA&usqp=CAU",
+                  "average_price": "€15.00",
+                  "opening_hours": "Thursday-Saturday: 11:00 PM - 6:00 AM",
+                  "website": "https://www.facebook.com/kremlinlisboa/",
+                  "geolocation": [38.7036, -9.1627],
+                  "comments": [
+                    {
+                      "user_name": [],
+                      "comment": []
+                    }
+                  ]
+                },
+                  {
+                    "id": 68,
+                    "name": "Urban Beach",
+                    "type": "club",
+                    "description": "A popular nightclub located by the river, known for its vibrant atmosphere, DJ sets, and themed parties.",
+                    "address": "Cais da Viscondessa, 1200-109 Lisboa, Portugal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnSEwjIwn0BtLSPZ1045-jomUJOV41U_NK6g&usqp=CAU",
+                    "average_price": "€20.00",
+                    "opening_hours": "Friday-Saturday: 11:00 PM - 6:00 AM",
+                    "website": "https://www.urbanbeach.pt/",
+                    "geolocation": [38.7078, -9.1589],
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 74,
+                    "name": "Barrio Latino",
+                    "type": "club",
+                    "description": "A Latin-themed nightclub with multiple dance floors, offering salsa, bachata, and Latin music.",
+                    "address": "R. da Cintura do Porto de Lisboa, Armazém A, 1200-450 Lisboa, Portugal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSpCWHnv-fYT62Em9F4uaABO7RgVftwka5Q&usqp=CAU",
+                    "average_price": "€15.00",
+                    "opening_hours": "Thursday-Saturday: 11:00 PM - 6:00 AM",
+                    "website": "https://www.barriolatino.pt/",
+                    "geolocation": [38.7102, -9.1254],
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 75,
+                    "name": "Indústria Club",
+                    "type": "club",
+                    "description": "A warehouse-style nightclub with industrial decor, playing a mix of techno, house, and underground electronic music.",
+                    "address": "Rua da Cintura do Porto de Lisboa, Armazém 2, Cais da Ribeira, 1200-450 Lisboa, Portugal",
+                    "image": "",
+                    "average_price": "€18.00",
+                    "opening_hours": "Friday-Saturday: 11:00 PM - 6:00 AM",
+                    "website": "https://www.facebook.com/industriaclublisboa/",
+                    "geolocation": [38.7115, -9.1252],
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 78,
+                    "name": "Rock Climbing in Cascais",
+                    "type": "outdoor activity",
+                    "description": "Head to the cliffs of Cascais for rock climbing adventures, suitable for climbers of all levels, with stunning coastal views.",
+                    "address": "Cascais, Lisbon, Portugal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnPgiI9BbtQmVumZDKbpGTlRoqZsSh-Ahzg&usqp=CAU",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 84,
+                    "name": "Canyoning in Sintra-Cascais Natural Park",
+                    "type": "outdoor activity",
+                    "description": "Embark on a canyoning adventure in Sintra-Cascais Natural Park, rappelling down waterfalls and exploring rugged canyons.",
+                    "address": "Sintra-Cascais Natural Park, Sintra, Portugal",
+                    "image": "data:image/jpeg;base64,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",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 87,
+                    "name": "Pilates Studio Sessions",
+                    "type": "fitness/wellness",
+                    "description": "Participate in Pilates sessions at specialized studios in Lisbon, focusing on core strength, flexibility, and posture.",
+                    "address": "Various Pilates studios in Lisbon, Portugal",
+                    "image": "data:image/jpeg;base64,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",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 88,
+                    "name": "Mindfulness Meditation Workshops",
+                    "type": "fitness/wellness",
+                    "description": "Attend mindfulness meditation workshops in Lisbon, learning techniques for stress reduction and mental clarity.",
+                    "address": "Various locations in Lisbon, Portugal",
+                    "image": "data:image/jpeg;base64,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",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 93,
+                    "name": "Tai Chi Classes",
+                    "type": "fitness/wellness",
+                    "description": "Practice Tai Chi in Lisbon, joining classes that focus on gentle movements, breathwork, and relaxation techniques.",
+                    "address": "Various locations in Lisbon, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 94,
+                    "name": "Group Fitness Classes",
+                    "type": "fitness/wellness",
+                    "description": "Participate in group fitness classes at gyms and fitness centers in Lisbon, including Zumba, spinning, and circuit training.",
+                    "address": "Various fitness centers in Lisbon, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 95,
+                    "name": "Martial Arts Training",
+                    "type": "fitness/wellness",
+                    "description": "Learn martial arts disciplines such as karate, judo, or Brazilian jiu-jitsu at specialized studios in Lisbon.",
+                    "address": "Various martial arts studios in Lisbon, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 96,
+                    "name": "Spinning Classes",
+                    "type": "fitness/wellness",
+                    "description": "Join indoor spinning classes at fitness centers in Lisbon, providing high-intensity cardio workouts and motivation.",
+                    "address": "Various fitness centers in Lisbon, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 97,
+                    "name": "Barre Workouts",
+                    "type": "fitness/wellness",
+                    "description": "Experience barre workouts in Lisbon, combining elements of ballet, Pilates, and strength training for a full-body workout.",
+                    "address": "Various fitness studios in Lisbon, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 98,
+                    "name": "Aquatic Therapy Sessions",
+                    "type": "fitness/wellness",
+                    "description": "Participate in aquatic therapy sessions at specialized centers in Lisbon, offering gentle exercises in water for rehabilitation and relaxation.",
+                    "address": "Various aquatic therapy centers in Lisbon, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 99,
+                    "name": "Outdoor Yoga by the Beach",
+                    "type": "fitness/wellness",
+                    "description": "Practice yoga sessions by the beach in Lisbon, enjoying the soothing sound of waves and the fresh sea breeze.",
+                    "address": "Various beaches near Lisbon, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 100,
+                    "name": "Trail Running in Sintra-Cascais Natural Park",
+                    "type": "fitness/wellness",
+                    "description": "Explore scenic trail running routes in Sintra-Cascais Natural Park, offering challenging terrain and breathtaking views.",
+                    "address": "Sintra-Cascais Natural Park, Sintra, Portugal",
+                    "image": "",
+                    "comments": [
+                      {
+                        "user_name": [],
+                        "comment": []
+                      }
+                    ]
+                  }
+                ]
 }
+                
